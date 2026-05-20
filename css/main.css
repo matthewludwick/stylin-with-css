@@ -10,4 +10,11 @@ body {
    width:90%;
    margin:auto;
    padding:1%;
+
+
+}
+
+footer {
+   clear:both;
+   text-align:center;
 }
