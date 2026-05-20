@@ -51,4 +51,5 @@ h1.page-header{
    width:80%;
    margin:auto;
    text-align:center;
+   text-shadow: 4px 4px 4px #aaa;
 }
